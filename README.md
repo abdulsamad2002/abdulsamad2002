@@ -3,13 +3,12 @@
 
 -  I’m currently learning **Next.js**
 
--  All of my projects are available at [https://abdulsamad2002.github.io/](https://abdulsamad2002.github.io/)
+-  All of my projects are available at [https://abdulsamad-cyan.vercel.app/](https://abdulsamad-cyan.vercel.app/)
 
 -  Ask me about **React.js, Express.js, Next.js**
 
 -  How to reach me **blackhawkalpha009@gmail.com**
 
--  Know about my experiences [http://samad.uno](http://samad.uno)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

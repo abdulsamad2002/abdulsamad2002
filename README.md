@@ -9,7 +9,7 @@
 - Trying to regularly write articles on **[https://abdulsamad-cyan.vercel.app/blog](https://abdulsamad-cyan.vercel.app/blog)**
 - Know about my experiences **[https://abdulsamad-cyan.vercel.app/resume.pdf](https://abdulsamad-cyan.vercel.app/resume.pdf)**
 
-#### Connect with me:
+#### Contacts:
 
 - Mail me at: **[blackhawkalpha009@gmail.com](mailto:blackhawkalpha009@gmail.com)**
 - My Linkedin: **[LinkedIn](https://linkedin.com/in/abdulsamad4)**

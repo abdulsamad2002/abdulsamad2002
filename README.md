@@ -10,6 +10,5 @@
 #### Connect with me:
 
 - Mail me at: **[blackhawkalpha009@gmail.com](mailto:blackhawkalpha009@gmail.com)**
-
 - My Linkedin at: **[LinkedIn](https://linkedin.com/in/abdulsamad4)**
 

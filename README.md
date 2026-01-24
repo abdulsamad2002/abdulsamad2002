@@ -1,6 +1,6 @@
 #### About me:
 
-##### Engineer/Dev
+##### Engineer/Developer
 
 - Currently learning **DevOps**
 - Looking to collaborate on **Open Source Projects**

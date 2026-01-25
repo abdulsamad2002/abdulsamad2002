@@ -5,7 +5,7 @@
 - ➤ Currently learning **DevOps**
 - ➤ Looking to collaborate on **Open Source Projects**
 - ➤ Ask me about **Software Development**
-- ➤ All of my notable works are available at **[abdulsamad/Projects](https://abdulsamad-cyan.vercel.app)**
+- ➤ All of my notable works is here: **[abdulsamad/Projects](https://abdulsamad-cyan.vercel.app)**
 - ➤ Trying to regularly write articles on **[abdulsamad/Blog](https://abdulsamad-cyan.vercel.app/blog)**
 - ➤ Know about my experiences **[abdulsamad/Resume](https://abdulsamad-cyan.vercel.app/resume.pdf)**
 - **Contributed to:**

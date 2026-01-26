@@ -9,8 +9,8 @@
 - ➤ Trying to regularly write articles on **[abdulsamad/Blog](https://abdulsamad-cyan.vercel.app/blog)**
 - ➤ Know about my experiences **[abdulsamad/Resume](https://abdulsamad-cyan.vercel.app/resume.pdf)**
 - **Contributed to:**
-    * [KeebLab](https://keeblabio.vercel.app) 
-    * [Recipe Suggestion App](https://recipe-suggestion-app.vercel.app/) 
+    * [KeebLab](https://github.com/abdullah-par/keeblab) 
+    * [Recipe Suggestion App](https://github.com/MohdKashif114/Recipe_Suggestion_App) 
 
 #### Contacts:
 

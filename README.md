@@ -5,8 +5,7 @@
 - ➤ Currently learning **DevOps**
 - ➤ Looking to collaborate on **Open Source Projects**
 - ➤ Ask me about **Software Development**
-- ➤ All of my notable works is here: **[abdulsamad/Projects](https://samadd.vercel.app)**
-- ➤ Trying to regularly write articles on **[abdulsamad/Blog](https://samadd.vercel.app/blog)**
+- ➤ All of my notable works is here: **[Abdul Samad's Personal Website](https://samadd.vercel.app/)**
 - ➤ Know about my experiences **[abdulsamad/Resume](https://samadd.vercel.app/resume.pdf)**
 - **Contributed to:**
     * [KeebLab](https://github.com/abdullah-par/keeblab) 

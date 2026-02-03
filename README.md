@@ -6,7 +6,7 @@
 - ➤ Looking to collaborate on **Open Source Projects**
 - ➤ Ask me about **Software Development**
 - ➤ All of my notable works is here: **[Abdul Samad's Personal Website](https://samadd.vercel.app/)**
-- ➤ Know about my experiences **[abdulsamad/Resume](https://samadd.vercel.app/resume.pdf)**
+- ➤ Know about my experiences **[Resume](https://samadd.vercel.app/resume.pdf)**
 - **Contributed to:**
     * [KeebLab](https://github.com/abdullah-par/keeblab) 
     * [Recipe Suggestion App](https://github.com/MohdKashif114/Recipe_Suggestion_App) 

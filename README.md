@@ -5,7 +5,7 @@
 - ➤ Currently learning **DevOps**
 - ➤ Looking to collaborate on **Open Source Projects**
 - ➤ Ask me about **Software Development**
-- ➤ All of my notable works is here: **[Abdul Samad's Personal Website](https://samadd.vercel.app/)**
+- ➤ All of my notable works is here: **[My Website](https://samadd.vercel.app/)**
 - ➤ Know about my experiences **[Resume](https://samadd.vercel.app/resume.pdf)**
 
 #### Contacts:
